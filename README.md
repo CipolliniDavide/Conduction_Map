@@ -5,3 +5,5 @@ Configure `Python 3.11.0rc1` or `python3.9` on Linux with pip env. Then install 
 
 Run `run_counter_example_ibw.sh` with `do_fit=0` to reproduce the figures. 
 Use `do_fit=1` to re-fit, overwrite [counterEx_ibw_.npy](Output%2FcounterEx_ibw_.npy), and reproduce the figures.
+
+Raw data included in this repository are the product of the experimental work of Jan Rieck and Prof. dr Beatriz Noheda.
