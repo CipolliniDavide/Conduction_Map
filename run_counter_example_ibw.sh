@@ -4,4 +4,4 @@
 
 do_fit=0
 
-python ./counter_example_ibw.py --do_fit $do_fit
+python ./counter_example_ibw.py --do_fit $do_fit --save_path ./Output/
