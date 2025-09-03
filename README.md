@@ -1,7 +1,7 @@
 # Conduction Map
 
 <p align="center">
-  <img src="fig-0005.jpg" alt="screenshot" width="600">
+  <img src="fig-0005.jpg" alt="screenshot" width="300">
 </p>
 <p align="center"><em>Figure from Rieck et. al., Advanced Intelligent Systems 2023.</em></p>
 
