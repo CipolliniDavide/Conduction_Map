@@ -1,4 +1,11 @@
 # Conduction Map
+
+<p align="center">
+  <img src="fig-0005.jpg" alt="screenshot" width="600">
+</p>
+<p align="center"><em>Figure from Rieck et. al., Advanced Intelligent Systems 2023.</em></p>
+
+
 This repository contains files to reproduce Fig 5 and S5 in _Rieck, J. L., Cipollini, D., Salverda, M., Quinteros, C. P., Schomaker, L. R. B., Noheda, B. (2022). **Ferroelastic Domain Walls in BiFeO3 as Memristive Networks**. In Advanced Intelligent Systems (Vol. 5, Issue 1). Wiley | https://doi.org/10.1002/aisy.202200292_.
 
 Configure `Python 3.11.0rc1` or `python3.9` on Linux with pip env. Then install `requirements.txt`.
